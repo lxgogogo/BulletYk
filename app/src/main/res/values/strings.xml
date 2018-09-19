@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YkAccessibility</string>
+    <string name="desc">用于自动发送微信消息</string>
+</resources>
